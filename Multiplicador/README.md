@@ -1,3 +1,3 @@
-Decodificador de Hamming 
+Multiplicador
 
 ![](Multiplicador.png)
