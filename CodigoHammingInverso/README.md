@@ -1,3 +1,3 @@
-Codigo de Hamming
+Decodificador de Hamming 
 
 ![](HammingInverso.png)
