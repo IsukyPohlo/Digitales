@@ -1,3 +1,3 @@
-Decodificador de Hamming 
+Proyecto Final Explicado
 
 ![](ToposExplicado.png)
